@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "data",
+			"path": "../tcc_pcf-20250921T184939Z-1-001/tcc_pcf/data"
+		},
+		{
+			"name": "tcc_pcf",
+			"path": "."
+		},
+		{
+			"name": "dataset_pcf",
+			"path": "../tcc_pcf-20250921T184939Z-1-001/tcc_pcf/dataset_pcf"
+		}
+	],
+	"settings": {}
+}
